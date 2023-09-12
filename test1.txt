@@ -2,4 +2,8 @@
 Change 1 on MyBranch
 =======
 Change 2 on MyBranch
+<<<<<<< HEAD
+>>>>>>> MyBranch
+=======
+Change 3 on MyBranch
 >>>>>>> MyBranch
